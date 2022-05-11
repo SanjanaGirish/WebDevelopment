@@ -1,6 +1,7 @@
-Web Development
+# Web Development
 
-Topics included in projects:
+## Topics included in projects:
+*
 - Front-End Web Development
 - HTML 5
 - CSS 3
@@ -31,3 +32,4 @@ Topics included in projects:
 - Blockchain technology
 - Token contract development
 - NFT minting, buying and selling logic
+*
