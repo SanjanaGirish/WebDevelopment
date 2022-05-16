@@ -1,0 +1,39 @@
+ body {
+    background-color: #EAF6F6;
+ }
+
+ hr {
+    background-color: white;
+    border-style: none;
+    border-top: 4px dotted grey;
+    width: 5%;
+    }
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+img:hover {
+    background-color: gold
+}
+/* -------------------CLASS SELECTOR -----------------------*/
+.bacon {
+    background-color: green
+}
+
+.broccoli {
+    background-color: red
+}
+
+.circular{
+    border-radius: 100%
+}
+/* -------------------ID SELECTOR -----------------------*/
+/* ID is unique and can be applied to only 1 selector. Class can be for more */
+#heading {
+    color: red
+}
